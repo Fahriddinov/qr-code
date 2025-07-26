@@ -1,4 +1,4 @@
-let ask = prompt('1. uzb \n 2. русс \n 3. eng \n 4. ❌')
+let ask = prompt('Son tanlang: \n 1. uzb \n 2. rus \n 3. eng \n 4. ❌')
 let img = document.querySelector('.img')
 let btn1 = document.querySelector('.uzbb')
 let btn2 = document.querySelector('.rusb')
