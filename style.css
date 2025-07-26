@@ -1,0 +1,35 @@
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    background-color: darkblue;
+    position: relative;
+}
+
+h1{
+    color: white;
+    position: absolute;
+    margin-top: 150px;
+    display: none;
+}
+
+button{
+    margin-top: 150px;
+    position: absolute;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    display: none;
+}
+
+.img{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    border: 3px solid white;
+    margin-top: 600px;
+    display: none;
+}
